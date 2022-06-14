@@ -1,7 +1,7 @@
  # Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:
  
 - :sunny: I’m enjoying the frontend world and a little bit touched backend.
-- :woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS are my favorite *[girly thing]* , but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript
+- :woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite *[girly thing]* , but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript
 - 📫 There is my LinkedIn profile. Feel free to contact me - https://www.linkedin.com/in/ieva-divane/
  
      ## Some previews of my works 👀
