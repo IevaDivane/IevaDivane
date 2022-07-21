@@ -9,17 +9,23 @@
 --->
  
 
+<p align="center">
 
- # Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:
+# Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:
  
 - :sunny: I’m enjoying the frontend world and a little bit touched backend.
 - :woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite *[girly thing]* , but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript
 - 📫 There is my LinkedIn profile. Feel free to contact me - https://www.linkedin.com/in/ieva-divane/
- 
- 
- 
-     ## Some previews of my works 👀
+
+   
      
+ 
+</p>
+
+ <p style="width:100px; margin:20px;font-size: 34px; " align="center" >
+	Some previews of my works 👀
+	</p>
+  
 :point_right:[Instagram-UI Clone](https://github.com/IevaDivane/Instagram-UI-Clone)
 
 ![InstagramClone](https://user-images.githubusercontent.com/82842403/180060166-3e3158b6-4104-4db2-997d-6d195a8a265f.gif)
