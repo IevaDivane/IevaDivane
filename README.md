@@ -4,27 +4,26 @@
  <img src="https://user-images.githubusercontent.com/82842403/180143278-3a1d07ae-f650-49bf-965d-f69ab21beaa0.png" width="100%" height="auto">
 
 </div>
-  <!---![White Modern Graphic Designer Business Email Header](https://user-images.githubusercontent.com/82842403/180068007-a56bef5a-b4a5-4620-9b2b-26fd5b5c2f5f.png)
-  ![_Red Futuristic Business Facebook Cover](https://user-images.githubusercontent.com/82842403/180143278-3a1d07ae-f650-49bf-965d-f69ab21beaa0.png)
---->
  
 
-<p align="center">
+<p align="center"  style="font-size: 34px;">
 
 # Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:
- 
-- :sunny: I’m enjoying the frontend world and a little bit touched backend.
-- :woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite *[girly thing]* , but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript
-- 📫 There is my LinkedIn profile. Feel free to contact me - https://www.linkedin.com/in/ieva-divane/
 
-   
-     
+ <ul style="list-style: none"> <li>:sunny: I’m enjoying the frontend world and a little bit touched backend.</li>
+ <li>:woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite <span style="font-style: italic;">[girly thing]</span>, but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript</li>
+ <li>📫 There is my LinkedIn profile. Feel free to contact me - https://www.linkedin.com/in/ieva-divane/   </li></ul>
+
+
+
  
 </p>
 
- <p style="width:100px; margin:20px;font-size: 34px; " align="center" >
-	Some previews of my works 👀
-	</p>
+ <p style="width:100px; margin:20px;font-size: 34px; " align="center" >Some previews of my works 👀</p>
+ 
+# 
+
+
   
 :point_right:[Instagram-UI Clone](https://github.com/IevaDivane/Instagram-UI-Clone)
 
