@@ -32,7 +32,7 @@
 
  <h3 align="center">:point_right:  <a href="https://github.com/IevaDivane/Pokemon">Pokemon app</a></h3>
  
- <img src="https://user-images.githubusercontent.com/82842403/173300973-eccd7a29-9add-4520-a7a1-23c5ad503ad7.gif" width="80%" height="auto" align="center">
+ <img src="https://user-images.githubusercontent.com/82842403/173300973-eccd7a29-9add-4520-a7a1-23c5ad503ad7.gif" width="89%" height="auto" align="center">
 
 <h3 align="center"> :point_right: <a href="https://github.com/IevaDivane/Mintos">Currency app</a></h3>
 
