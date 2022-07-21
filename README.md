@@ -6,7 +6,6 @@
 </div>
  
 
-<h1 align="center"  style="font-size: 34px;"> Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:</h1>
 
 
 <p align="center">:sunny: I’m enjoying the frontend world and a little bit touched backend.</p>
