@@ -1,5 +1,15 @@
 
-  <!---![White Modern Graphic Designer Business Email Header](https://user-images.githubusercontent.com/82842403/180068007-a56bef5a-b4a5-4620-9b2b-26fd5b5c2f5f.png)--->
+<div style="margin-top: 0px; padding:0px;">
+
+ <img src="https://user-images.githubusercontent.com/82842403/180143278-3a1d07ae-f650-49bf-965d-f69ab21beaa0.png" width="100%" height="auto">
+
+</div>
+  <!---![White Modern Graphic Designer Business Email Header](https://user-images.githubusercontent.com/82842403/180068007-a56bef5a-b4a5-4620-9b2b-26fd5b5c2f5f.png)
+  ![_Red Futuristic Business Facebook Cover](https://user-images.githubusercontent.com/82842403/180143278-3a1d07ae-f650-49bf-965d-f69ab21beaa0.png)
+--->
+ 
+
+
  # Hi, I’m Ieva Dīvāne, programmer from Latvia!:wave:
  
 - :sunny: I’m enjoying the frontend world and a little bit touched backend.
