@@ -1,7 +1,7 @@
 
 <div style="margin-top: 0px; padding:0px;">
 
- <img src="https://user-images.githubusercontent.com/82842403/180154297-f116dcd4-9ffb-46af-b2f6-4cf8e9a41f4f.png" width="100%" height="auto">
+ <img src="https://user-images.githubusercontent.com/82842403/180154297-f116dcd4-9ffb-46af-b2f6-4cf8e9a41f4f.png" width="1640px" height="auto">
 
 </div>
  
