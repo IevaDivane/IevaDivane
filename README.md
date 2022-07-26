@@ -3,7 +3,7 @@
 
 <p align="center">:sunny: I’m enjoying the frontend world and a little bit touched backend.</p>
 
- <p align="center">:woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite <span style="font-style: italic;">[girly thing]</span>, but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript</p>
+ <p align="center">:woman_student: The latest knowledge I gained is React, Vue and Angular. SCSS is my favorite <i>[girly thing]</i>, but I am willing to learn and make beauty in code as well. Skilled in HTML, SCSS, JavaScript and TypeScript</p>
  
  <p align="center">📫 There is my LinkedIn profile. Feel free to contact me - <a href="https://www.linkedin.com/in/ieva-divane/">Linkedin</a> </p>
  
