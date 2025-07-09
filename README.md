@@ -1,5 +1,9 @@
 <img src="https://github.com/user-attachments/assets/e32134ff-79de-4222-8e99-b540fc85ee61" width="100%" height="auto">
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">:sunny:  Passionate about the frontend world, with a growing curiosity for backend development.</p>
 
  <p align="center">:woman_student: Recently working with React, Vue, and Angular. I enjoy crafting beautiful and accessible interfaces — SCSS is my favorite “girly thing” 💅, and I love bringing design to life through clean, well-structured code. </p>
