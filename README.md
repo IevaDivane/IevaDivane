@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/82842403/180156786-37d9cca8-138e-482c-a2a1-0a01cf8e1f23.png" width="100%" height="auto">
-
+<img src="https://github.com/user-attachments/assets/e32134ff-79de-4222-8e99-b540fc85ee61" width="100%" height="auto">
 
 <p align="center">:sunny:  Passionate about the frontend world, with a growing curiosity for backend development.</p>
 
