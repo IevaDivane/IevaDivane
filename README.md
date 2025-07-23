@@ -4,13 +4,13 @@
 <br/>
 <br/>
 <br/>
-<p align="center">:sunny:  Passionate about the frontend world, with a growing curiosity for backend development.</p>
+<p align="center">  Passionate about the frontend world, with a growing curiosity for backend development.</p>
 
  <p align="center">:woman_student: Recently working with React, Vue, and Angular. I enjoy crafting beautiful and accessible interfaces — SCSS is my favorite “girly thing” 💅, and I love bringing design to life through clean, well-structured code. </p>
  
- <p align="center">💡 Skilled in HTML, SCSS, JavaScript, and TypeScript. Always learning, always building.</p>
+ <p align="center"> Skilled in HTML, SCSS, JavaScript, and TypeScript. Always learning, always building.</p>
  
- <p align="center">📫  <a href="https://www.linkedin.com/in/ieva-divane/"> Connect with me on LinkedIn </a>  – feel free to reach out!</p>
+ <p align="center"> <a href="https://www.linkedin.com/in/ieva-divane/"> Connect with me on LinkedIn </a>  – feel free to reach out!</p>
  
  
 
